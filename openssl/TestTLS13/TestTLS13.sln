@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TLSServer", "TLSServer\TLSServer.vcxproj", "{FC235141-BEAC-4039-BEC1-E234FD41C4C4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TLSClient", "TLSClient\TLSClient.vcxproj", "{07EE296A-DAEC-48A1-BACF-7ABF75A57989}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC235141-BEAC-4039-BEC1-E234FD41C4C4}.Debug|x86.ActiveCfg = Debug|Win32
+		{FC235141-BEAC-4039-BEC1-E234FD41C4C4}.Debug|x86.Build.0 = Debug|Win32
+		{07EE296A-DAEC-48A1-BACF-7ABF75A57989}.Debug|x86.ActiveCfg = Debug|Win32
+		{07EE296A-DAEC-48A1-BACF-7ABF75A57989}.Debug|x86.Build.0 = Debug|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A8D9C6A-8263-4953-A282-5194721BA837}
+	EndGlobalSection
+EndGlobal
